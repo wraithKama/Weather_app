@@ -1,0 +1,408 @@
+{
+  "lat": 55.7522,
+  "lon": 37.6156,
+  "timezone": "Europe/Moscow",
+  "timezone_offset": 10800,
+  "current": {
+    "dt": 1674205003,
+    "sunrise": 1674193424,
+    "sunset": 1674221802,
+    "temp": 276.36,
+    "feels_like": 271.93,
+    "pressure": 1020,
+    "humidity": 91,
+    "dew_point": 275.03,
+    "uvi": 0.11,
+    "clouds": 100,
+    "visibility": 10000,
+    "wind_speed": 5.66,
+    "wind_deg": 169,
+    "wind_gust": 14.98,
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  "daily": [
+    {
+      "dt": 1674205200,
+      "sunrise": 1674193424,
+      "sunset": 1674221802,
+      "moonrise": 1674192120,
+      "moonset": 1674212160,
+      "moon_phase": 0.94,
+      "temp": {
+        "day": 276.36,
+        "min": 273.79,
+        "max": 276.36,
+        "night": 273.79,
+        "eve": 275.14,
+        "morn": 275.06
+      },
+      "feels_like": {
+        "day": 271.93,
+        "night": 269.41,
+        "eve": 270.46,
+        "morn": 270.32
+      },
+      "pressure": 1020,
+      "humidity": 91,
+      "dew_point": 275.03,
+      "wind_speed": 6.19,
+      "wind_deg": 160,
+      "wind_gust": 15.73,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 0.31,
+      "rain": 0.22,
+      "uvi": 0.12
+    },
+    {
+      "dt": 1674291600,
+      "sunrise": 1674279741,
+      "sunset": 1674308320,
+      "moonrise": 1674281760,
+      "moonset": 1674303720,
+      "moon_phase": 0,
+      "temp": {
+        "day": 271.6,
+        "min": 269.33,
+        "max": 273.69,
+        "night": 269.33,
+        "eve": 270.38,
+        "morn": 271.79
+      },
+      "feels_like": {
+        "day": 267.14,
+        "night": 264.06,
+        "eve": 265.43,
+        "morn": 267.42
+      },
+      "pressure": 1033,
+      "humidity": 83,
+      "dew_point": 269.06,
+      "wind_speed": 4.22,
+      "wind_deg": 154,
+      "wind_gust": 11.95,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 0,
+      "uvi": 0.38
+    },
+    {
+      "dt": 1674378000,
+      "sunrise": 1674366056,
+      "sunset": 1674394840,
+      "moonrise": 1674370080,
+      "moonset": 1674396180,
+      "moon_phase": 0.02,
+      "temp": {
+        "day": 270,
+        "min": 267.9,
+        "max": 271.12,
+        "night": 268.01,
+        "eve": 269.4,
+        "morn": 268.41
+      },
+      "feels_like": {
+        "day": 266.11,
+        "night": 264.52,
+        "eve": 265.77,
+        "morn": 264.2
+      },
+      "pressure": 1037,
+      "humidity": 91,
+      "dew_point": 268.57,
+      "wind_speed": 3.99,
+      "wind_deg": 137,
+      "wind_gust": 9.74,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "clouds": 24,
+      "pop": 0,
+      "uvi": 0.45
+    },
+    {
+      "dt": 1674464400,
+      "sunrise": 1674452368,
+      "sunset": 1674481361,
+      "moonrise": 1674457620,
+      "moonset": 1674488760,
+      "moon_phase": 0.06,
+      "temp": {
+        "day": 269.73,
+        "min": 266.72,
+        "max": 270.52,
+        "night": 267.95,
+        "eve": 268.52,
+        "morn": 266.85
+      },
+      "feels_like": {
+        "day": 266.48,
+        "night": 264.77,
+        "eve": 265.4,
+        "morn": 263.36
+      },
+      "pressure": 1046,
+      "humidity": 86,
+      "dew_point": 267.62,
+      "wind_speed": 2.17,
+      "wind_deg": 155,
+      "wind_gust": 5.95,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": 80,
+      "pop": 0,
+      "uvi": 0.43
+    },
+    {
+      "dt": 1674550800,
+      "sunrise": 1674538678,
+      "sunset": 1674567883,
+      "moonrise": 1674544800,
+      "moonset": 1674581100,
+      "moon_phase": 0.1,
+      "temp": {
+        "day": 269.95,
+        "min": 266.6,
+        "max": 270.81,
+        "night": 267.95,
+        "eve": 268.27,
+        "morn": 266.62
+      },
+      "feels_like": {
+        "day": 266.68,
+        "night": 263.63,
+        "eve": 264.56,
+        "morn": 263.81
+      },
+      "pressure": 1044,
+      "humidity": 76,
+      "dew_point": 266.13,
+      "wind_speed": 2.79,
+      "wind_deg": 225,
+      "wind_gust": 8.57,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": 86,
+      "pop": 0,
+      "uvi": 0.54
+    },
+    {
+      "dt": 1674637200,
+      "sunrise": 1674624984,
+      "sunset": 1674654407,
+      "moonrise": 1674631740,
+      "moonset": 1674673080,
+      "moon_phase": 0.14,
+      "temp": {
+        "day": 269.69,
+        "min": 266.89,
+        "max": 270.81,
+        "night": 268.07,
+        "eve": 268.86,
+        "morn": 267.1
+      },
+      "feels_like": {
+        "day": 265.58,
+        "night": 263.39,
+        "eve": 264.13,
+        "morn": 262.57
+      },
+      "pressure": 1037,
+      "humidity": 72,
+      "dew_point": 265.28,
+      "wind_speed": 3.49,
+      "wind_deg": 232,
+      "wind_gust": 11.01,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "clouds": 18,
+      "pop": 0,
+      "uvi": 1
+    },
+    {
+      "dt": 1674723600,
+      "sunrise": 1674711289,
+      "sunset": 1674740931,
+      "moonrise": 1674718620,
+      "moonset": 1674764760,
+      "moon_phase": 0.17,
+      "temp": {
+        "day": 269.4,
+        "min": 266.37,
+        "max": 270.1,
+        "night": 267.39,
+        "eve": 267.8,
+        "morn": 266.69
+      },
+      "feels_like": {
+        "day": 265.29,
+        "night": 263.16,
+        "eve": 263.8,
+        "morn": 262.43
+      },
+      "pressure": 1029,
+      "humidity": 78,
+      "dew_point": 265.92,
+      "wind_speed": 2.86,
+      "wind_deg": 199,
+      "wind_gust": 9.49,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "clouds": 8,
+      "pop": 0,
+      "uvi": 1
+    },
+    {
+      "dt": 1674810000,
+      "sunrise": 1674797590,
+      "sunset": 1674827457,
+      "moonrise": 1674805500,
+      "moonset": 0,
+      "moon_phase": 0.21,
+      "temp": {
+        "day": 268.39,
+        "min": 265.66,
+        "max": 269,
+        "night": 268.37,
+        "eve": 267.72,
+        "morn": 266.13
+      },
+      "feels_like": {
+        "day": 265.6,
+        "night": 265.91,
+        "eve": 267.72,
+        "morn": 262.25
+      },
+      "pressure": 1024,
+      "humidity": 83,
+      "dew_point": 265.73,
+      "wind_speed": 2.49,
+      "wind_deg": 225,
+      "wind_gust": 7.38,
+      "weather": [
+        {
+          "id": 600,
+          "main": "Snow",
+          "description": "light snow",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 32,
+      "pop": 0.42,
+      "snow": 0.47,
+      "uvi": 1
+    }
+  ],
+  "alerts": [
+    {
+      "sender_name": "",
+      "event": "Other dangers",
+      "start": 1674205200,
+      "end": 1674331200,
+      "description": "",
+      "tags": [
+
+      ]
+    },
+    {
+      "sender_name": "",
+      "event": "Прочие опасности",
+      "start": 1674205200,
+      "end": 1674331200,
+      "description": "Гололедица, местами сильная.",
+      "tags": [
+
+      ]
+    },
+    {
+      "sender_name": "",
+      "event": "Wind",
+      "start": 1674205200,
+      "end": 1674234000,
+      "description": "",
+      "tags": [
+        "Wind"
+      ]
+    },
+    {
+      "sender_name": "",
+      "event": "Ветер",
+      "start": 1674205200,
+      "end": 1674234000,
+      "description": "Местами порывы до 15",
+      "tags": [
+        "Wind"
+      ]
+    },
+    {
+      "sender_name": "",
+      "event": "Thunderstorms",
+      "start": 1674201600,
+      "end": 1674234000,
+      "description": "",
+      "tags": [
+        "Thunderstorm"
+      ]
+    },
+    {
+      "sender_name": "",
+      "event": "Гроза",
+      "start": 1674201600,
+      "end": 1674234000,
+      "description": "Местами гроза",
+      "tags": [
+        "Thunderstorm"
+      ]
+    }
+  ]
+}
